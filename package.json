@@ -1,7 +1,7 @@
 {
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcoSven/schoolkeep-templates"
+    "url": "https://github.com/HelloTech/northpass-templates"
   },
   "devDependencies": {
     "browser-sync": "^2.11.2",
